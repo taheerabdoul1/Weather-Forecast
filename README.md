@@ -78,7 +78,7 @@ Clone this repository to your desired folder:
 
 
 > Fork this repo
-> git clone git@github.com/Zuwairanajma/weather-forecast-app.git
+> git clone git@github.com/taheerabdoul1/weather-forecast.git
 
 ### Prerequisites
 
@@ -116,6 +116,11 @@ You can deploy this project adding new lines of code to index.html and styles.cs
 - Twitter: [@SadiqJuwairiyya](https://twitter.com/SadiqJuwairiyya)
 - LinkedIn: [Zuwaira Sadiq](https://www.linkedin.com/in/zuwaira-sadiq-566b891b0?)
 
+👤 **Author2**
+
+👤 Tahir Abdullahi Usman
+- GitHub: [@taheerabdoul1](https://github.com/taheerabdoul1)
+- Twitter: [@taheer_abdoul](https://twitter.com/taheer_abdoul)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
