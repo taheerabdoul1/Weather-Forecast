@@ -1,0 +1,121 @@
+*{
+    padding: 0%;
+   margin: 0%; 
+   box-sizing: border-box;
+   font-family: 'poppins', sans-serif;
+}
+.container{
+
+display: flex; 
+align-items: center;
+justify-content: center;
+padding: 2%;
+
+
+}
+
+.search{
+   width: 100%;
+   max-width: 700px;
+   background-color: grey;
+   display: flex;
+   align-items: center;
+   border-radius: 15px;
+   padding: 10px 20px;
+   border: 1px thick blue;
+
+}
+.search input{
+   background: transparent;
+   flex: 1;
+   border: none;
+   outline: none;
+   padding: 24px 20px;
+   font-size: 15px;
+   font-style: italic;
+   font-family:cursive;
+
+}
+::placeholder{
+   color: whitesmoke; 
+}
+.search button img{
+   width: 30px;
+}
+.search button{
+   /* border: 1px thick blue; */
+   border-radius: 30px;
+   width: 20%;
+   height: 20%;
+   cursor: pointer;
+   background: lightblue;
+}
+.search button:hover{
+     border-color: red; 
+}
+nav{
+     text-align: center; text-align: center; align-items: center; align-content: center;
+}
+.Mumbai{
+    font-weight:900 ;
+font-size: 50px;
+}
+.Date button{
+border: none;
+border-radius:30px;
+width: 5cm;
+height: 1cm;
+background-color: skyblue;
+
+}
+.Date{
+    font-size: 1px;
+    padding: 1px;
+    
+    
+} 
+.Smoke{
+    font-size: 27px; 
+}
+.Smoke img{
+    width: 35px;
+    padding: 1px 3px;
+    
+    
+}
+.Degree{
+    font-size: 100px;
+}
+.flexy{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+
+}
+.Speed,.humidity,.visibilty{
+   height: 200px;
+   width: 200px;
+   font-size: 25px;
+   text-align: center; 
+   justify-content: center;
+   align-items: center;
+   line-height: 200px;
+   border-radius: 20px;
+   margin: 10px;
+   border: none;
+   
+   
+
+   /* width: 100px; border: 1px thick black; */
+   background-color: rgb(209, 206, 206);
+
+}
+.Speed img,.visibilty img,.humidity img{
+    height: 40px;
+    width: 30px;
+}
+@media screen  and {max-width:1000px; max-height: 1000px  ;}
+@media screen {
+    mix-width:50px ; min-height: 50px;
+}
